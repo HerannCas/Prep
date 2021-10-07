@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-image: url(https://buenavibra.es/wp-content/uploads/2018/10/Webp.net-resizeimage-9-1170x600.jpg);
+    background-position: center;
+    background-repeat: repeat-x, repeat-y;
+    background-size: auto;
+}
+
+div{
+    align-items: center;
+}
+
+h1{
+    color: black;
+}
+
+img{
+    width: 400px;
+}
+
+#thirDiv{
+    height: 600px;
+    width: 500px;
+    background-color: black;
+}
+
+#spanId{
+    font-size: 25px;
+    margin: 50px;
+    padding: 50px;
+    border: black, solid, 5px;
+}
